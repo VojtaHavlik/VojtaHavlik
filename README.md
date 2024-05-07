@@ -14,12 +14,12 @@ Bude se zde ukazovat zda je kód zadán dobře či špatně a při zadávání s
 Jsou zde dvě diody Zelená a Červená
 Zelená: Svítí pouze pokud je odkódováno 
 Červená: Svítí pouze pokud je zakódováno 
-
+### Společná komunikace
+ESP bude odesílat hodnotu 0 nebo 1 druhému ESP a tím bude informovat jestli je odkódováno nebo zakódováno
 ## ESP - Vojtěch
 ### Čidlo
 Snímá vzdálenost mezi objektem a daným čidlem.
 ### Pípák
-ESP přijme informace odeslané z ESP - D a vyhodnotí situaci.
 Pokud se data shodují a bylo odkódováno tak se nic neděje, ale v případě že se data neshodují pípák se spustí a začne pípat dokud se neodkóduje.
-
-## Společná komunikace
+### Společná komunikace
+ESP přijme informace odeslané z prvního ESP a vyhodnotí situaci
