@@ -60,5 +60,5 @@ Záznamy se po uplynuté době jednoho měsíce samy vymažou, pokud administrá
               
 
 **Administrátor:** Bude mít možnost přidat nového Uživatele/Administrítora.
-                   Bude mít možnost přidat nové zařiízení.
+                   Bude mít možnost přidat nové zařízení.
                    Má přístup do všech sekcí aplikace a může v ní měnit prakticky cokliv.
