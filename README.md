@@ -5,8 +5,17 @@
 **Tento projekt jsme si vybrali, protože zabezpečovací systém je něco co by měla mít každá domácnost a přijde nám oběma že v tomto směru velké množství zaostává.**
 
 Projekt zpracovali **_Dominik Vicenec_** a **_Vojtěch Havlík_**.
+Použité knihovny
 
 ## ESP - Dominik
+**Použité knihovny:**
+
+- Keypad.h
+
+- U8glib.h
+
+- WiFi.h
+
 ### Klávesnice
 Píše se zde kód pro zakódování/odkódování k alarmu --- Kód : 15AD.
 ### Displej
@@ -20,6 +29,12 @@ Jsou zde dvě diody Zelená a Červená.
 ### Společná komunikace
 ESP bude odesílat hodnotu 0 nebo 1 druhému ESP a tím bude informovat jestli je odkódováno nebo zakódováno.
 ## ESP - Vojtěch
+**Použité knihovny:**
+
+- NewPing.h
+
+- WiFi.h
+
 ### Čidlo
 Snímá vzdálenost mezi objektem a daným čidlem.
 ### Pípák
