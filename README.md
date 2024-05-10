@@ -41,11 +41,10 @@ Uživatel se bude muset nejdříve přihlásit a potom podle oprávnění bude m
 4. Log
 5. Cloud/server
       
-**Sekce Záznam z kamer:** Zde jsou uvedeny kamerové záznamy které se v této sekci ukláadají dva dny potom se kompletně přesunou na cloud/server
+**Sekce Záznam z kamer:** Zde jsou uvedeny kamerové záznamy které se v této sekci ukládají dva dny potom se kompletně přesunou na cloud/server
                           Také je zde možnost zapnout automatizaci kamer, kde se aktivuje světlo při pohybu přes noc od zadaného času a potom se vypne.
               
-**Sekce Nastavení:** Můžete zde odebrat kamery z vašeho záznamového archu, přidat kamery, vypnout oznámení aplikace, nebo naopak zvýšit prioritu oznámení.
- Tato sekce má dvojí nastvaení a to je odlišné pro uživatele, administrátoři vidí cele nastavení a mohou měnit cokoliv, ale uživatel zde může změnit jenom své názvy zařízení, své oznámení a vzhled aplikace.
+**Sekce Nastavení:** Můžete zde odebrat kamery z vašeho záznamového archu, přidat kamery, vypnout oznámení aplikace, nebo naopak zvýšit prioritu oznámení.Tato sekce má dvojí nastvaení a to je odlišné pro uživatele, administrátoři vidí cele nastavení a mohou měnit cokoliv, ale uživatel zde může změnit jenom své názvy zařízení, své oznámení a vzhled aplikace.
 
 **Sekce Všechna zařízení:** Naše aplikace je schopna pojmout i zařízení které se připojí pomocí bluetooth a zobrazí je v této sekci s ostatními zařízeními např. kamery.
 
