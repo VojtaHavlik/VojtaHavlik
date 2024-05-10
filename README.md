@@ -63,7 +63,3 @@ Záznamy se po uplynuté době jednoho měsíce samy vymažou, pokud administrá
 **Administrátor:** Bude mít možnost přidat nového Uživatele/Administrítora.
                    Bude mít možnost přidat nové zařiízení.
                    Má přístup do všech sekcí aplikace a může v ní měnit prakticky cokliv.
-               
-100. First list item
-       - First nested list item
-         - Second nested list item
