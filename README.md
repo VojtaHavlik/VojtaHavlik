@@ -5,7 +5,6 @@
 **Tento projekt jsme si vybrali, protože zabezpečovací systém je něco co by měla mít každá domácnost a přijde nám oběma že v tomto směru velké množství zaostává.**
 
 Projekt zpracovali **_Dominik Vicenec_** a **_Vojtěch Havlík_**.
-Použité knihovny
 
 ## ESP - Dominik
 **Použité knihovny:**
